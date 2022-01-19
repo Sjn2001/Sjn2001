@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sjn2001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @SJN NJS
+- 👀 I’m interested in ...development 
+- 🌱 I’m currently learning ...androidDevelopment
+- 💞️ I’m looking to collaborate on ...developers community 
+- 📫 How to reach me ... dm me 
 
 <!---
 Sjn2001/Sjn2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
